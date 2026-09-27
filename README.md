@@ -85,7 +85,7 @@ For the complete, topic-by-topic deep dive covering IP addressing, L4 vs L7 load
 
 1. **Clone the Repo:**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/networking-essentials-system-design.git
+   git clone https://github.com/akhilonteru/networking-essentials-system-design.git
    ```
 2. **Star ⭐ this repo** if you found it helpful for your interview preparation!
 

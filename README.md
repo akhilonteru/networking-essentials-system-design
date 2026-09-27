@@ -78,6 +78,8 @@ Never implement unthrottled retries during an outage. Combine **Timeouts + Retri
 For the complete, topic-by-topic deep dive covering IP addressing, L4 vs L7 load balancing algorithms, regionalization, CDNs, and circuit breakers, check out:
 
 👉 **[Read the Complete System Design Networking Guide](./docs/networking-essentials-guide.md)**
+📄 **[Download Presentation Blueprint PDF](https://github.com/akhilonteru/networking-essentials-system-design/blob/main/docs/System_Design_Networking_Blueprint.pdf)**
+
 
 ---
 
